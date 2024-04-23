@@ -13,7 +13,7 @@ This project's version control will be hosted on Perforce.
 
  
 
-4) After pressing install, we’ll make some modifications to our installation to ensure the optimization of our installation (Unreal 5.2 used as example below but the process is exactly the same).  
+4) After pressing install, we’ll make some modifications to our installation to ensure the optimization of our installation
 
  
 
@@ -90,7 +90,7 @@ This project's version control will be hosted on Perforce.
 
 11) Restart the Oculus app on the PC and restart the connection with the headset. 
 
-12) On the left-hand side, click on settings, then go to the beta tab.  
+12) On the left-hand side of the Oculus app, click on settings, then go to the beta tab.  
 
 13) Enable developer runtime features 
 
@@ -98,30 +98,18 @@ This project's version control will be hosted on Perforce.
 
 ## Launching the program 
 
-Click on the executable file  
+1) Click on the executable file
 
- 
+2) In /Content/Levels/, select and load WaitingRoom.
 
-In /Content/Levels/, select and load WaitingRoom. 
+3) Initialize server by launching the executable
 
-Initialize server by launching the executable  
+4) After ensuring the headset is properly connected, Click on the button “Launch in VR” 
 
- 
+5) To trigger the OSCE score/results screen, click “Enter” on the keyboard. 
 
-After ensuring the headset is properly connected, Click on the button “Launch in VR” 
+6) To close the program, click “Esc” on the keyboard. 
 
- 
 
-To trigger the OSCE score/results screen, click “Enter” on the keyboard. 
-
-To close the program, click “Esc” on the keyboard. 
-
-Headset Setup 
-
- 
-
-Controller Setup 
-
- 
 
  
