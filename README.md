@@ -104,7 +104,9 @@ This project uses Unreal Engine 5.3.2, Meta Quest Virtual Reality Headsets, vari
 
 
 ## Team
-Principal Investigator
+
+Principal Investigators
+
 Ashley Scott
 Associate Professor of Teaching
 UBC School of Nursing
@@ -116,6 +118,7 @@ UBC School of Nursing
 University of British Columbia
 
 Current Team
+
 Victoria Lim, Project Lead, UI/UX Designer (September 2023 - present)
 Work Learn at the Emerging Media Lab at UBC
 Undergraduate in Bachelor of Science in Cognitive Systems
