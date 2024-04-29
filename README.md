@@ -106,53 +106,34 @@ This project uses Unreal Engine 5.3.2, Meta Quest Virtual Reality Headsets, vari
 ## Team
 Principal Investigator
 Ashley Scott
-
 Associate Professor of Teaching
-
 UBC School of Nursing
-
 University of British Columbia
 
-
 Dr. Fairleth McCuaig
-
 Associate Professor of Teaching
-
 UBC School of Nursing
-
 University of British Columbia
 
 Current Team
 Victoria Lim, Project Lead, UI/UX Designer (September 2023 - present)
-
 Work Learn at the Emerging Media Lab at UBC
-
 Undergraduate in Bachelor of Science in Cognitive Systems
-
 University of British Columbia
 
 Jerry Wang, Software Developer (September 2023 - present)
-
 Work Learn at the Emerging Media Lab at UBC
-
 Undergraduate in Bachelor of Science in Cognitive Systems
-
 University of British Columbia
 
 Graydon Strachan, Software Developer (January 2024 - present)
-
 Work Learn at the Emerging Media Lab at UBC
-
 Undergraduate in Bachelor of Applied Science in Computer Engineering
-
 University of British Columbia
 
 William Watkins, Software Developer (September 2023 - December 2023)
-
 Work Learn at the Emerging Media Lab at UBC
-
 Undergraduate in Bachelor of Science in Biology
-
 University of British Columbia
 
 ## Documentation
