@@ -13,17 +13,21 @@ This project uses Unreal Engine 5.3.2, Meta Quest Virtual Reality Headsets, vari
 ## Getting Started with Unreal Engine 
 1) Visit [Download Unreal Engine - Unreal Engine](https://www.unrealengine.com/en-US/download)  and install the Epic Games Launcher 
 
-2) After following the steps to install the launcher, make sure that you are set to Unreal Engine 
+2) After following the steps to install the launcher, make sure that you are set to Unreal Engine.
+   ![image](https://github.com/ubceml/23-1003-Nurse-Practitioner/assets/76148419/5137e220-c7c6-4a3b-b6f1-39a524bd25cf)
 
-3) Go to the Library Tab and press the “+” Icon. Choose Unreal Engine 5.3.2 
 
-4) After pressing install, we’ll make some modifications to our installation to ensure the optimization of our installation
+4) Go to the Library Tab and press the “+” Icon. Choose Unreal Engine 5.3.2 
+![image](https://github.com/ubceml/23-1003-Nurse-Practitioner/assets/76148419/808e2e85-a66a-47c6-9046-643db51562eb)
 
-5) In Folder, choose where to install unreal engine. It is recommended not to change this if you have the space on your primary drive.  
+5) After pressing install, we’ll make some modifications to our installation to ensure the optimization of our installation
+   ![image](https://github.com/ubceml/23-1003-Nurse-Practitioner/assets/76148419/a4f07e0f-5488-4044-a269-20b64d9d5dcf)
 
-6) In path, click on options, and unselect the Android, IOS, and Linux platforms. This will save you about 22 GB in installation.  
+6) In Folder, choose where to install unreal engine. It is recommended not to change this if you have the space on your primary drive.  
 
-7) Let the install happen, and then run. The first time you run Unreal Engine, it will take a while so be patient! 
+7) In path, click on options, and unselect the Android, IOS, and Linux platforms. This will save you about 22 GB in installation.  
+
+8) Let the install happen, and then run. The first time you run Unreal Engine, it will take a while so be patient! 
 
 ## Plugins Installation 
 
@@ -35,12 +39,15 @@ This project uses Unreal Engine 5.3.2, Meta Quest Virtual Reality Headsets, vari
    - VaRest 
 
 2) To find these plugins and download them, go to the Epic Games Launcher, and ensure you are tabbed into Unreal Engine on the left-hand side of the screen. 
+![image](https://github.com/ubceml/23-1003-Nurse-Practitioner/assets/76148419/24166ef0-8539-4282-8ebe-6a29aec57802)
 
 3) Go to Marketplace  
+![image](https://github.com/ubceml/23-1003-Nurse-Practitioner/assets/76148419/7fe9057f-7dfe-4885-a06b-b003ed70cc1e)
 
 4) Then search for the plugin, and purchase (they are all free). 
 
-5) Once all plugins have been purchased and added to your library, click on the library tab next to Marketplace.  
+5) Once all plugins have been purchased and added to your library, click on the library tab next to Marketplace.
+   ![image](https://github.com/ubceml/23-1003-Nurse-Practitioner/assets/76148419/5da7a967-a5b5-421e-96e5-80e7586aed91)
 
 6) Scroll down through your vault to find the plugin of interest and press on install to Engine.  
 
