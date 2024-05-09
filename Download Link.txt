@@ -1,0 +1,2 @@
+Download Release 1.0 here:
+https://eml-ue-project-releases.s3.ca-central-1.amazonaws.com/nurse_practitioner_1.0.zip
